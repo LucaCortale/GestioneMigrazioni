@@ -1,0 +1,27 @@
+EVENTO (T,Country,quantita di persone)
+
+EVETO (1,Italia,1000)
+	500 stanziati in italia
+	4 confinanti --> 125 persone per stato confinante
+	crea EVENTI di ingresso
+	
+EVENTO (2,Francia,125)
+	52 stanziati in Francia
+	63 si dividono tra i 5 stati confinanti della Francia: 12 per stato e 3 stanziali(resto della divisione)
+	
+	
+EVENTO (2,Svizzera,125)
+	52 stanziati in Francia
+	63 si dividono tra i 4 stati confinanti della Francia: 15 per stato e 3 stanziali(resto della divisione)
+
+EVENTO (2,Austria,125)
+EVENTO (2,Slovenia,125)
+EVENTO (3,Spagna,12)
+EVENTO (3,Germania,12)
+EVENTO (3,Italia,12)
+EVENTO (3,Belgio,12)
+EVENTO (3,Olanda,12)
+EVENTO (3,Francia,15)
+EVENTO (3,Italia,15)
+EVENTO (3,Germania,15)
+EVENTO (3,Austria,15)
